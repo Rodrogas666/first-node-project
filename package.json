@@ -1,0 +1,23 @@
+{
+  "name": "firstproject",
+  "version": "0.0.1",
+  "description": "primer projecto que hago con nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js # esta es una app de nodejs",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "first",
+    "project",
+    "nodejs"
+  ],
+  "author": "Rodrogas666",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
